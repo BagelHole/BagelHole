@@ -1,7 +1,8 @@
 # Toby Miller - DevOps / Software Engineer
+[![Repos Badge](https://badges.pufler.dev/repos/puf17640)](https://badges.pufler.dev)
 Accomplished DevOps & Software Engineer with strong knowledge on cyber security and computer systems. 
 
-## :pencil: Languages 
+## Languages 
 <p>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
 <a href="https://www.terraform.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/></a> 
@@ -13,7 +14,7 @@ Accomplished DevOps & Software Engineer with strong knowledge on cyber security 
 
 </p>
 
-## :computer: Technologies & Tools
+## Technologies & Tools
 <p> 
 <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a>
 <a href="https://developer.android.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/android/android-tile.svg" alt="android" width="40" height="40"/></a> 
