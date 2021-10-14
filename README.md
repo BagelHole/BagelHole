@@ -5,7 +5,7 @@
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/BagelHole)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/BagelHole)](https://badges.pufler.dev)
 
-#### Accomplished DevOps & Software Engineer with strong knowledge on cyber security and computer systems. 
+### Accomplished DevOps & Software Engineer with strong knowledge on cyber security and computer systems. 
 
 ## Languages 
 <p>
