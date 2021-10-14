@@ -27,4 +27,5 @@ Accomplished DevOps & Software Engineer with strong knowledge on cyber security 
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a></p>
 
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=BagelHole&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=noctis_minimus" /><img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BagelHole&layout=compact&theme=noctis_minimus&hide_border=true&include_all_commits=true&langs_count=8"/>
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=BagelHole&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=noctis_minimus" />
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BagelHole&layout=compact&theme=noctis_minimus&hide_border=true&include_all_commits=true&langs_count=8"/>
