@@ -28,4 +28,4 @@ Accomplished DevOps & Software Engineer with strong knowledge on cyber security 
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a></p>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BagelHole&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=darcula" /> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BagelHole&layout=compact&theme=darcula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BagelHole&layout=compact&theme=darcula&hide_border=true&include_all_commits=true"/>
