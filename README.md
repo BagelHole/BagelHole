@@ -35,5 +35,5 @@ Accomplished DevOps & Software Engineer with strong knowledge on cyber security 
     <img align="center" height="168em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BagelHole&layout=compact&theme=noctis_minimus&hide_border=true&include_all_commits=true&langs_count=8"/>
 </a>
 
+
 <a target="_blank" href="https://www.linkedin.com/in/toby-miller-4b3736137/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a target="_blank" href="https://www.goodreads.com/user/show/72373069-toby"><img src="https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white" /></a>
