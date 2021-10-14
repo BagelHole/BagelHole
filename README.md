@@ -31,5 +31,5 @@ Accomplished DevOps & Software Engineer with strong knowledge on cyber security 
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=BagelHole&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=noctis_minimus" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BagelHole&layout=compact&theme=noctis_minimus&hide_border=true&include_all_commits=true&langs_count=8"/>
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BagelHole&layout=compact&theme=noctis_minimus&hide_border=true&include_all_commits=true&langs_count=8"/>
 </a>
