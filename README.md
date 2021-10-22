@@ -1,9 +1,6 @@
 # Toby Miller - DevOps / Software Engineer
 
 <a target="_blank" href="https://www.linkedin.com/in/toby-miller-4b3736137/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-[![Repos Badge](https://badges.pufler.dev/repos/BagelHole)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/BagelHole)](https://badges.pufler.dev)
-[![Years Badge](https://badges.pufler.dev/years/BagelHole)](https://badges.pufler.dev)
 
 <b> Accomplished DevOps & Software Engineer with strong knowledge on cyber security and computer systems. 
 
