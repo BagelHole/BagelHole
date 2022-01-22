@@ -9,7 +9,7 @@ stack including web3.js, useDApp, Hardhat, React, IPFS.
 
 ## Web3.0 
 <a href="https://ethereum.org/en/developers/docs/smart-contracts/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Ethereum-icon-purple.svg" alt="ETH Smart Contracts" width="50" height="40"/></a> 
-<a href="https://docs.soliditylang.org/en/v0.8.11/" target="_blank"> <img src="https://res.cloudinary.com/divzjiip8/image/upload/q_auto/v1609632845/logos/intro_solidity.png" alt="Solidity" width="50" height="40"/></a> 
+<a href="https://docs.soliditylang.org/en/v0.8.11/" target="_blank"> <img src="https://res.cloudinary.com/divzjiip8/image/upload/q_auto/v1609632845/logos/intro_solidity.png" alt="Solidity" width="40" height="40"/></a> 
 <a href="https://reactjs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="50" height="40"/></a> 
 <a href="https://ipfs.io/" target="_blank"> <img src="https://docs.ipfs.io/images/ipfs-logo.svg" alt="React" width="50" height="40"/></a> 
 <a href="https://github.com/ChainSafe/web3.js" target="_blank"> <img src="https://github.com/ChainSafe/web3.js/blob/1.x/assets/logo/web3js.svg" alt="web3.js" width="65" height="40"/></a> 
