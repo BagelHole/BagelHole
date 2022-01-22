@@ -31,7 +31,6 @@ stack including web3.js, useDApp, Hardhat, React, IPFS.
 <p> 
 <a href="https://cloud.google.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="50" height="40"/></a>
 <a href="https://developer.android.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="android" width="50" height="40"/></a> 
-<a href="https://developer.apple.com/xcode/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="xcode" width="50" height="40"/></a> 
 <a href="https://www.docker.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="50" height="40"/></a> 
 <a href="https://kubernetes.io" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="50" height="40"/></a> 
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="50" height="40"/></a>  
