@@ -9,7 +9,7 @@ stack including web3.js, useDApp, Hardhat, React, IPFS.
 
 ## Web3.0 
 <a href="https://ethereum.org/en/developers/docs/smart-contracts/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" alt="ETH Smart Contracts" width="40" height="40"/></a> 
-<a href="https://docs.soliditylang.org/en/v0.8.11/" target="_blank"> <img src="https://www.logo.wine/logo/Solidity" alt="Solidity" width="40" height="40"/></a> 
+<a href="https://docs.soliditylang.org/en/v0.8.11/" target="_blank"> <img src="https://commons.wikimedia.org/wiki/File:Solidity_logo.svg" alt="Solidity" width="40" height="40"/></a> 
 
 
 ## Languages 
