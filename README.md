@@ -7,7 +7,6 @@
 <b> Strong interest in Blockchain projects. Well versed in Ethereum smart contracts through Solidity. Good understanding of Web3.0
 stack including web3.js, useDApp, Hardhat, React, IPFS.
 
-# Skills
 ## Web3.0 
 <a href="https://ethereum.org/en/developers/docs/smart-contracts/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Ethereum-icon-purple.svg" alt="ETH Smart Contracts" width="50" height="40"/></a> 
 <a href="https://docs.soliditylang.org/en/v0.8.11/" target="_blank"> <img src="https://res.cloudinary.com/divzjiip8/image/upload/q_auto/v1609632845/logos/intro_solidity.png" alt="Solidity" width="45" height="40"/></a> 
