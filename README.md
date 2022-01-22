@@ -8,21 +8,21 @@
 stack including web3.js, useDApp, Hardhat, React, IPFS.
 
 ## Web3.0 
-<a href="https://ethereum.org/en/developers/docs/smart-contracts/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Ethereum-icon-purple.svg" alt="ETH Smart Contracts" width="60" height="40"/></a> 
-<a href="https://docs.soliditylang.org/en/v0.8.11/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="Solidity" width="60" height="40"/></a> 
-<a href="https://reactjs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="60" height="40"/></a> 
-<a href="https://github.com/ChainSafe/web3.js" target="_blank"> <img src="https://github.com/ChainSafe/web3.js/blob/1.x/assets/logo/web3js.svg" alt="web3.js" width="60" height="40"/></a> 
+<a href="https://ethereum.org/en/developers/docs/smart-contracts/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Ethereum-icon-purple.svg" alt="ETH Smart Contracts" width="50" height="40"/></a> 
+<a href="https://docs.soliditylang.org/en/v0.8.11/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="Solidity" width="50" height="40"/></a> 
+<a href="https://reactjs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="50" height="40"/></a> 
+<a href="https://github.com/ChainSafe/web3.js" target="_blank"> <img src="https://github.com/ChainSafe/web3.js/blob/1.x/assets/logo/web3js.svg" alt="web3.js" width="50" height="40"/></a> 
 <a href="https://hardhat.org/" target="_blank"> <img src="https://hardhat.org/assets/img/Hardhat-logo.843bc822.svg" alt="Hardhat" width="150" height="40"/></a> 
 
 ## Languages 
 <p>
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="40"/></a> 
-<a href="https://www.terraform.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="60" height="40"/></a> 
-<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="40"/></a> 
-<a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" width="60" height="40"/></a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="40"/></a> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="40"/></a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="40"/></a> 
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
+<a href="https://www.terraform.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/></a> 
+<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> 
+<a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" width="40" height="40"/></a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> 
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> 
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> 
 
 </p>
 
