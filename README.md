@@ -1,8 +1,16 @@
-# Toby Miller - DevOps / Software Engineer
+# Toby Miller - DevOps / Software / Web3.0 Engineer
 
 <a target="_blank" href="https://www.linkedin.com/in/toby-miller-4b3736137/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<b> Accomplished DevOps & Software Engineer with strong knowledge on cyber security and computer systems. 
+<b> Accomplished DevOps & Software Engineer with great knowledge on cyber security and computer systems. 
+
+<b> Strong interest in Blockchain projects. Well versed in Ethereum smart contracts through Solidity. Good understanding of Web3.0
+stack including web3.js, useDApp, Hardhat, React, IPFS.
+
+## Web3.0 
+<a href="https://ethereum.org/en/developers/docs/smart-contracts/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" alt="ETH Smart Contracts" width="40" height="40"/></a> 
+<a href="https://docs.soliditylang.org/en/v0.8.11/" target="_blank"> <img src="https://www.logo.wine/logo/Solidity" alt="Solidity" width="40" height="40"/></a> 
+
 
 ## Languages 
 <p>
