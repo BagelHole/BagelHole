@@ -11,7 +11,7 @@ stack including web3.js, useDApp, Hardhat, React, IPFS.
 <a href="https://ethereum.org/en/developers/docs/smart-contracts/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Ethereum-icon-purple.svg" alt="ETH Smart Contracts" width="40" height="40"/></a> 
 <a href="https://docs.soliditylang.org/en/v0.8.11/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="Solidity" width="40" height="40"/></a> 
 <a href="https://reactjs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a> 
-<a href="https://github.com/ChainSafe/web3.js" target="_blank"> <img src="https://github.com/ChainSafe/web3.js/blob/1.x/assets/logo/web3js.svg" alt="web3.js" width="80" height="80"/></a> 
+<a href="https://github.com/ChainSafe/web3.js" target="_blank"> <img src="https://github.com/ChainSafe/web3.js/blob/1.x/assets/logo/web3js.svg" alt="web3.js" width="80" height="40"/></a> 
 <a href="https://hardhat.org/" target="_blank"> <img src="https://hardhat.org/assets/img/Hardhat-logo.843bc822.svg" alt="Hardhat" width="150" height="40"/></a> 
 
 ## Languages 
