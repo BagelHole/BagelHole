@@ -2,6 +2,8 @@
 
 <a target="_blank" href="https://www.linkedin.com/in/toby-miller-4b3736137/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+<img src="https://img.shields.io/github/stars/BagelHole?style=social"><img src="https://img.shields.io/github/followers/BagelHole?style=social">
+
 <b> Cloud & Software Engineer with strong knowledge on cyber security and computer systems.
 
 ## Languages 
