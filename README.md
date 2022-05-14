@@ -31,4 +31,4 @@
 <a href="https://hardhat.org/" target="_blank"> <img src="https://hardhat.org/assets/img/Hardhat-logo.843bc822.svg" alt="Hardhat" width="150" height="40"/></a> 
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" height="175em" src="https://github-readme-stats.vercel.app/api?username=BagelHole&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=noctis_minimus"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BagelHole&layout=compact&theme=noctis_minimus&hide_border=true&include_all_commits=true&langs_count=6&hide=css,html"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BagelHole&layout=compact&theme=noctis_minimus&hide_border=true&include_all_commits=true&langs_count=6"/></a>
