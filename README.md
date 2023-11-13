@@ -4,7 +4,7 @@
 
 <b> Cloud & Software Engineer with strong knowledge on cyber security and computer systems.
 
-<b> Creator of <a target="_blank" href="https://www.meowcharts.com/">Meow Charts</a>
+<b> Current Project: <a target="_blank" href="https://www.gemsaga.com/">Gem Saga</a>
 
 ## Languages 
 <p>
