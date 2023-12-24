@@ -2,9 +2,10 @@
 
 <a target="_blank" href="https://www.linkedin.com/in/toby-miller-4b3736137/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp; <img src="https://img.shields.io/github/stars/BagelHole?style=social">
 
-<b> Cloud & Software Engineer with strong knowledge on cyber security and computer systems.
+<b> Cloud & Software Engineer with strong knowledge of cyber security and computer systems.
 
 <b> Current Project: <a target="_blank" href="https://www.gemsaga.com/">Gem Saga</a>
+<b> Previous Project: <a target="_blank" href="https://www.meowcharts.com/">Meow Charts</a>
 
 ## Languages 
 <p>
