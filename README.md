@@ -27,3 +27,5 @@
 <a href="https://cloud.google.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="50" height="40"/></a>
 <a href="https://aws.amazon.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" alt="aws" width="50" height="40"/></a>
 </p>
+
+![Toby's GitHub stats](https://github-readme-stats.vercel.app/api?username=BagelHole&show_icons=true&theme=synthwave)
