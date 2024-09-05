@@ -25,5 +25,5 @@
 <a href="https://www.docker.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="50" height="40"/></a> 
 <a href="https://kubernetes.io" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="50" height="40"/></a> 
 <a href="https://cloud.google.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="50" height="40"/></a>
-<a href="https://aws.amazon.com/" target="_blank"> <img src="https://w7.pngwing.com/pngs/610/693/png-transparent-amazon-aws-logo.png" alt="aws" width="50" height="40"/></a>
+<a href="https://aws.amazon.com/" target="_blank"> <img src="https://banner2.cleanpng.com/20190418/qty/kisspng-amazon-web-services-logo-cloud-computing-amazon-co-logoaws-1-itnext-summit-1713897691932.webp" alt="aws" width="50" height="40"/></a>
 </p>
