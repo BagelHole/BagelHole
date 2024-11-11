@@ -4,7 +4,7 @@
 
 <b> Cloud & Software Engineer with strong cyber security and computer systems knowledge.
 
-<b> Current Project: <a target="_blank" href="https://www.gemsaga.com/">Gem Saga</a>
+<b> Current Project: <a target="_blank" href="https://www.mac-pet.com/">Mac Pet</a>
 
 <b> Previous Project: <a target="_blank" href="https://www.meowcharts.com/">Meow Charts</a>
 
