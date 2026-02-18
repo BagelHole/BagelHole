@@ -2,11 +2,9 @@
 
 <a target="_blank" href="https://www.linkedin.com/in/toby-miller-4b3736137/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp; <img src="https://img.shields.io/github/stars/BagelHole?style=social">
 
-<b> Cloud & Software Engineer with strong cyber security and computer systems knowledge.
+<b> Current Project: <a target="_blank" href="https://www.fitdm.io/">OpenCorpo</a>
 
-<b> Current Project: <a target="_blank" href="https://www.fitdm.io/">FitDM</a>
-
-<b> Previous Project: <a target="_blank" href="https://www.mac-pet.com/">Mac Pet</a>
+<b> Previous Project: <a target="_blank" href="https://www.mac-pet.com/">Hearth.sh</a>
 
 ## Languages 
 <p>
