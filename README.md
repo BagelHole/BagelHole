@@ -43,7 +43,7 @@ Recently, I have been shipping self-hosted LLM infrastructure, multi-agent workf
 
 ### Cloud & Infrastructure
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
@@ -78,5 +78,4 @@ Recently, I have been shipping self-hosted LLM infrastructure, multi-agent workf
 
 ![Self-Hosted LLMs](https://img.shields.io/badge/Self--Hosted-LLM%20Inference-111827?style=flat-square)
 ![Agent Workflows](https://img.shields.io/badge/Multi--Agent-Systems-1F2937?style=flat-square)
-![AI Automation](https://img.shields.io/badge/AI-Assisted-Engineering%20Tooling-374151?style=flat-square)
 ![Slack Bots](https://img.shields.io/badge/Slack-Bots-4A154B?style=flat-square&logo=slack&logoColor=white)
