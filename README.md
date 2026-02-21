@@ -5,7 +5,7 @@
 Building reliable platforms, secure infrastructure, and AI-native internal tooling.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Toby%20Miller-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/toby-miller-4b3736137/)
-[![X](https://img.shields.io/badge/Twitter-@TheTobyMiller-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/TheTobyMiller)
+[![X](https://img.shields.io/badge/X-@TheTobyMiller-1DA1F2?style=for-the-badge&logo=X&logoColor=white)](https://x.com/TheTobyMiller)
 ![GitHub User's stars](https://img.shields.io/github/stars/BagelHole?style=for-the-badge)
 
 ---
